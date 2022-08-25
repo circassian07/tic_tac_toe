@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+}
+
+.board_bg {
+    width: 60vw;
+    height: 60vh;
+    background-color: lightblue;
+    border-radius: 10px;
+    margin: auto;
+}
